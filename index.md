@@ -1,11 +1,8 @@
 # Law Agency Website (Personal Project)
 
 Below is an image of the website as it displays in the browser:
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=KtciOYQrbS8" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Website Display](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=KtciOYQrbS8l-Y "Coffee Website")
+
 
 ## Source Code
 - HTML: [Home Page](https://github.com/lizz02/cis110-p3/blob/main/p3/home.html)
