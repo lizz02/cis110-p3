@@ -3,7 +3,7 @@
 Below is a video of the website as it displays in the browser:
 
 
-[![Website Display](https://yt-embed.herokuapp.com/embed?v=KtciOYQrbS8l)](https://www.youtube.com/watch?v=KtciOYQrbS8l-Y "Coffee Website")
+[![Website Display](https://yt-embed.herokuapp.com/embed?v=KtciOYQrbS8)](https://www.youtube.com/watch?v=KtciOYQrbS8 "Coffee Website")
 
 
 ## Source Code
