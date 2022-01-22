@@ -1,7 +1,9 @@
 # Law Agency Website (Personal Project)
 
-Below is an image of the website as it displays in the browser:
-[![Website Display](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=KtciOYQrbS8l-Y "Coffee Website")
+Below is a video of the website as it displays in the browser:
+
+
+[![Website Display](https://yt-embed.herokuapp.com/embed?v=KtciOYQrbS8-Y)](https://www.youtube.com/watch?v=KtciOYQrbS8l-Y "Coffee Website")
 
 
 ## Source Code
