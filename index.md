@@ -1,8 +1,11 @@
 # Law Agency Website (Personal Project)
 
 Below is an image of the website as it displays in the browser:
-<video src="https://github.com/lizz02/cis110-p3/blob/main/coffeesite.mp4" controls="controls" style="max-width: 730px;">
-</video>
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=KtciOYQrbS8" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 ## Source Code
 - HTML: [Home Page](https://github.com/lizz02/cis110-p3/blob/main/p3/home.html)
