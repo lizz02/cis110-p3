@@ -1,4 +1,4 @@
-# Law Agency Website (Personal Project)
+# Coffee Info Table (CIS110 Project)
 
 Below is a video of the website as it displays in the browser:
 
