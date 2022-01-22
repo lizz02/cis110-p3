@@ -7,11 +7,7 @@ Below is a video of the website as it displays in the browser:
 
 
 ## Source Code
-- HTML: [Home Page](https://github.com/lizz02/cis110-p3/blob/main/p3/home.html)
-- [Coffee Page](https://github.com/lizz02/cis110-p3/blob/main/p3/coffee.html)
-- [Espresso Page](https://github.com/lizz02/cis110-p3/blob/main/p3/espresso.html)
-- [Latte Page](https://github.com/lizz02/cis110-p3/blob/main/p3/latte.html)
-- [Cappuccino Page](https://github.com/lizz02/cis110-p3/blob/main/p3/cappuccino.html)
+- HTML: [Home Page](https://github.com/lizz02/cis110-p3/blob/main/p3/home.html) | [Coffee Page](https://github.com/lizz02/cis110-p3/blob/main/p3/coffee.html) | [Espresso Page](https://github.com/lizz02/cis110-p3/blob/main/p3/espresso.html) | [Latte Page](https://github.com/lizz02/cis110-p3/blob/main/p3/latte.html) | [Cappuccino Page](https://github.com/lizz02/cis110-p3/blob/main/p3/cappuccino.html)
 - CSS: [Style Sheet](https://github.com/lizz02/cis110-p3/blob/main/p3/p3.css)
 
 
