@@ -1,12 +1,16 @@
 # Law Agency Website (Personal Project)
 
 Below is an image of the website as it displays in the browser:
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/coffeesite.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 ## Source Code
-- HTML: [Source Code](https://github.com/lizz02/waa/blob/main/waa-home.html)
-- CSS: [Source Code](https://github.com/lizz02/waa/blob/main/waa.css)
+- HTML: [Home Page](https://github.com/lizz02/cis110-p3/blob/main/p3/home.html)
+- [Coffee Page](https://github.com/lizz02/cis110-p3/blob/main/p3/coffee.html)
+- [Espresso Page](https://github.com/lizz02/cis110-p3/blob/main/p3/espresso.html)
+- [Latte Page](https://github.com/lizz02/cis110-p3/blob/main/p3/latte.html)
+- [Cappuccino Page](https://github.com/lizz02/cis110-p3/blob/main/p3/cappuccino.html)
+- CSS: [Style Sheet](https://github.com/lizz02/cis110-p3/blob/main/p3/p3.css)
 
 
 
